@@ -74,6 +74,7 @@ export interface AngularTokenOptions {
 
   apiBase?:                   string;
   apiPath?:                   string;
+  secondaryApiBase?:          string;
 
   signInPath?:                string;
   signInRedirect?:            string;
