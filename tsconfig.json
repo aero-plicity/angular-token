@@ -10,16 +10,13 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "importHelpers": true,
-    "target": "es5",
-
+    "target": "es2015",
     "noImplicitThis": true,
     "noImplicitAny": true,
     "alwaysStrict": true,
-
     "forceConsistentCasingInFileNames": true,
     "noUnusedLocals": true,
     "noImplicitReturns": true,
-
     "typeRoots": [
       "node_modules/@types"
     ],
